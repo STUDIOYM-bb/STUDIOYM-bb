@@ -75,9 +75,9 @@
   AI 기반 모의면접 서비스 프로젝트입니다. 면접 세션 저장, 답변 기록, 평가 결과 집계, 리포트 생성 기능을 중심으로 참여했습니다.<br>
   사용자의 답변 결과를 분석해 리포트로 제공하고, 리포트를 기반으로 재면접을 진행하는 순환 시스템을 구현했습니다.<br><br>
 
-<b>💹 Virtuber - 모의 주식 투자 시스템</b><br>
-Spring Boot 기반 모의투자 서비스입니다. 종목 조회, 매수/매도, 보유 주식, 거래 내역, 랜덤 가격 변동 스케줄러를 구현했습니다.<br>
-계좌 잔액 검증, 보유 수량 검증, 평균 매입가 계산, 매도 수익률 계산 등 실제 투자 흐름을 고려해 기능을 설계했습니다.
+  <b>💹 Virtuber - 모의 주식 투자 시스템</b><br>
+  Spring Boot 기반 모의투자 서비스입니다. 종목 조회, 매수/매도, 보유 주식, 거래 내역, 랜덤 가격 변동 스케줄러를 구현했습니다.<br>
+  계좌 잔액 검증, 보유 수량 검증, 평균 매입가 계산, 매도 수익률 계산 등 실제 투자 흐름을 고려해 기능을 설계했습니다.
 
 </p>
 
@@ -102,12 +102,19 @@ Spring Boot 기반 모의투자 서비스입니다. 종목 조회, 매수/매도
 <h3 align="left">🔥 My Stats</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=STUDIOYM-bb&show_icons=true&theme=dark&hide_border=false&border_radius=5&locale=kr" height="170" alt="github stats" />
-  <img src="https://streak-stats.demolab.com?user=STUDIOYM-bb&locale=ko&mode=daily&theme=dark&hide_border=false&border_radius=5" height="170" alt="streak graph" />
+  <img 
+    src="https://streak-stats.demolab.com?user=STUDIOYM-bb&amp;locale=ko&amp;mode=daily&amp;theme=dark&amp;hide_border=false&amp;border_radius=5"
+    height="170"
+    alt="streak graph"
+  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=STUDIOYM-bb&locale=kr&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false" height="150" alt="languages graph" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=STUDIOYM-bb&amp;locale=kr&amp;hide_title=false&amp;layout=compact&amp;card_width=320&amp;langs_count=6&amp;theme=dark&amp;hide_border=false"
+    height="150"
+    alt="languages graph"
+  />
 </div>
